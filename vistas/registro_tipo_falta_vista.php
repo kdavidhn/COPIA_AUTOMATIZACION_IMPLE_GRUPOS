@@ -97,7 +97,7 @@ ob_end_flush();
                 </div>
 
 
-                <!-- /.card-header -->
+                <!-- /.card-header      -->
                 <div class="card-body">
                     <div class="row">
                         <div class="col-md-12">
